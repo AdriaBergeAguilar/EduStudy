@@ -1,0 +1,3 @@
+[submodule "EduStudy.git"]
+	path = EduStudy.git
+	url = https://github.com/m3n0R/EduStudy.git
