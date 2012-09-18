@@ -18,9 +18,6 @@ import com.facebook.android.Facebook;
 
 public class EduStudyApplication extends Application {
 
-	
-	
-	
 	private static final String TAG = "EduStudyApplication";
 	private static final String APP_ID = "404163189638916";
 	
@@ -28,6 +25,7 @@ public class EduStudyApplication extends Application {
 	public AsyncFacebookRunner asyncRunner;
 	
 //	public ArrayList<Drink> drinks;
+	
 	public String userName;
 	public Bitmap userPic;
 	
